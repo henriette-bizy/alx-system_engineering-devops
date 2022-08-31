@@ -1,1 +1,1 @@
-pwd
+-e#!bin/bash\n pwd
