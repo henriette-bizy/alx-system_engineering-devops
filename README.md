@@ -1,1 +1,1 @@
-#Alx-bash-basics
+# moved on to shell permissions
